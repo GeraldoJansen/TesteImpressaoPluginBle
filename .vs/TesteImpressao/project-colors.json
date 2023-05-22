@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "471f5f85-b3ce-41a7-b819-8707272eb89f": {
+      "ProjectGuid": "471f5f85-b3ce-41a7-b819-8707272eb89f",
+      "DisplayName": "DLinkSistemas.Fiscal",
+      "ColorIndex": 0
+    },
+    "8d4e1590-7e85-4758-aaa6-cc5f3de4267b": {
+      "ProjectGuid": "8d4e1590-7e85-4758-aaa6-cc5f3de4267b",
+      "DisplayName": "TesteImpressao",
+      "ColorIndex": 1
+    },
+    "d0e9d2dc-a809-4f7c-98da-5e1d44da9d2e": {
+      "ProjectGuid": "d0e9d2dc-a809-4f7c-98da-5e1d44da9d2e",
+      "DisplayName": "TesteImpressao.Android",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
